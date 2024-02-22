@@ -47,6 +47,7 @@ if (age >= 18 || listName1 === 'Marcos') {
 // we use &&
 // now both of the condition need to evaluate to true
 
+//EXAMPLE 3
 const listName1 = 'Marcos';
 
 if (age >= 18 && listName1 === 'Marcos') {
