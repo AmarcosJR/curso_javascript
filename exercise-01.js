@@ -35,7 +35,7 @@ function fuelExpense (time, mediaSpeed) {
     return result.toFixed(3);
 
     //  Melhor metodo by Caio
-    // return return (time * mediaSpeed / KmPerL).toFixed(3);
+    // return (time * mediaSpeed / KmPerL).toFixed(3);
 }
 
 console.log(fuelExpense(10, 85));
