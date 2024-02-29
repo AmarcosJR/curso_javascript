@@ -34,6 +34,7 @@ function oddValues(value) {
     }
 }
 
+//testing
 oddValues(8)
 
 function pairValues (value) {
@@ -49,5 +50,6 @@ function pairValues (value) {
     }
 }
 
-// pairValues(10)
+//testing
+pairValues(10)
 
